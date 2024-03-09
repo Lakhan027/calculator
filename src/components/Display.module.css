@@ -1,0 +1,9 @@
+.display{
+  margin: 10px;
+  width: 175px;
+  font-size: 25px;
+  color: aquamarine;
+  background-color: black;
+  border: none;
+  border-bottom: 1px solid rgb(94, 91, 91);
+}
